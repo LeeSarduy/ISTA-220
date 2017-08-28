@@ -1,4 +1,4 @@
-Lee H. Sarduy                                                                                                                                         Chapter 1 – C#
+Lee H. Sarduy                                                                                                                                         Chapter 1 â€“ C#
 
 8/07/2017                                                                                                                                               Pages 3-32
 
