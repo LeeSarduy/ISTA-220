@@ -1,4 +1,4 @@
-Lee H. Sarduy                                                                                                                                               Chapter 8 – C#
+Lee H. Sarduy                                                                                                                                               Chapter 8 â€“ C#
 
 8/22/2017                                                                                                                                                    Pages 177-199
 
