@@ -14,7 +14,7 @@ Lee H. Sarduy                                                                   
 
 **3. List two ways to increment a numeric variable by 5. List two ways to decrement a numeric variable by 50.**
 
-Two ways to increment a numeric variable by 5 are, &quot;var = var + 5;&quot; and &quot;var += 5&quot;; Two ways to decrement a numeric variable by 50 are, &quot;var = var – 50,&quot; and var -= 50&quot;;
+Two ways to increment a numeric variable by 5 are, &quot;var = var + 5;&quot; and &quot;var += 5&quot;; Two ways to decrement a numeric variable by 50 are, &quot;var = var â€“ 50,&quot; and var -= 50&quot;;
 
 **4. How long does a while loop run?**
 
