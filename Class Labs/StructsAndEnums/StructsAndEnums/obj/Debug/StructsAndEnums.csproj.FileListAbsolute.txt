@@ -1,0 +1,6 @@
+C:\Users\chino\Desktop\C# ISTA-220\C# Step By Step BOOK\CSharpSBS\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums - Complete\StructsAndEnums\bin\Debug\StructsAndEnums.exe.config
+C:\Users\chino\Desktop\C# ISTA-220\C# Step By Step BOOK\CSharpSBS\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums - Complete\StructsAndEnums\bin\Debug\StructsAndEnums.exe
+C:\Users\chino\Desktop\C# ISTA-220\C# Step By Step BOOK\CSharpSBS\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums - Complete\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
+C:\Users\chino\Desktop\C# ISTA-220\C# Step By Step BOOK\CSharpSBS\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums - Complete\StructsAndEnums\obj\Debug\StructsAndEnums.csprojResolveAssemblyReference.cache
+C:\Users\chino\Desktop\C# ISTA-220\C# Step By Step BOOK\CSharpSBS\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums - Complete\StructsAndEnums\obj\Debug\StructsAndEnums.exe
+C:\Users\chino\Desktop\C# ISTA-220\C# Step By Step BOOK\CSharpSBS\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums - Complete\StructsAndEnums\obj\Debug\StructsAndEnums.pdb
