@@ -1,0 +1,6 @@
+C:\Users\chino\Desktop\C#ISTA-220\C# Step By Step BOOK\CSharpSBS\Microsoft Press\VCSBS\Chapter 14\GarbageCollectionDemo - Complete\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe.config
+C:\Users\chino\Desktop\C#ISTA-220\C# Step By Step BOOK\CSharpSBS\Microsoft Press\VCSBS\Chapter 14\GarbageCollectionDemo - Complete\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe
+C:\Users\chino\Desktop\C#ISTA-220\C# Step By Step BOOK\CSharpSBS\Microsoft Press\VCSBS\Chapter 14\GarbageCollectionDemo - Complete\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.pdb
+C:\Users\chino\Desktop\C#ISTA-220\C# Step By Step BOOK\CSharpSBS\Microsoft Press\VCSBS\Chapter 14\GarbageCollectionDemo - Complete\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.csprojResolveAssemblyReference.cache
+C:\Users\chino\Desktop\C#ISTA-220\C# Step By Step BOOK\CSharpSBS\Microsoft Press\VCSBS\Chapter 14\GarbageCollectionDemo - Complete\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.exe
+C:\Users\chino\Desktop\C#ISTA-220\C# Step By Step BOOK\CSharpSBS\Microsoft Press\VCSBS\Chapter 14\GarbageCollectionDemo - Complete\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.pdb
